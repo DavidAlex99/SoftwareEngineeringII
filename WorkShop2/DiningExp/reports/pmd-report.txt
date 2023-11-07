@@ -1,0 +1,47 @@
+src/main/java/DiningExperienceManager.java:5:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/DiningExperienceManager.java:5:	NoPackage:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/main/java/DiningExperienceManager.java:5:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/DiningExperienceManager.java:6:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/DiningExperienceManager.java:6:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/DiningExperienceManager.java:6:	UseDiamondOperator:	UseDiamondOperator: Raw type use may be avoided by using a diamond: `new HashMap<>()`
+src/main/java/DiningExperienceManager.java:7:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/DiningExperienceManager.java:8:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/DiningExperienceManager.java:19:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:20:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:22:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:26:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'orders' is not assigned and could be declared final
+src/main/java/DiningExperienceManager.java:29:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'quantity' could be declared final
+src/main/java/DiningExperienceManager.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'order' could be declared final
+src/main/java/DiningExperienceManager.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'meal' could be declared final
+src/main/java/DiningExperienceManager.java:35:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'quantity' could be declared final
+src/main/java/DiningExperienceManager.java:39:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:41:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:45:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:47:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using literals in if statements
+src/main/java/DiningExperienceManager.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'meal' is not assigned and could be declared final
+src/main/java/DiningExperienceManager.java:58:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'quantity' is not assigned and could be declared final
+src/main/java/DiningExperienceManager.java:62:	CognitiveComplexity:	CognitiveComplexity: The method 'main(String[])' has a cognitive complexity of 15, current threshold is 15
+src/main/java/DiningExperienceManager.java:62:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/DiningExperienceManager.java:63:	CloseResource:	CloseResource: Ensure that resources like this Scanner object are closed after use
+src/main/java/DiningExperienceManager.java:63:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'sc' could be declared final
+src/main/java/DiningExperienceManager.java:63:	ShortVariable:	ShortVariable: Avoid variables with short names like sc
+src/main/java/DiningExperienceManager.java:64:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'orders' could be declared final
+src/main/java/DiningExperienceManager.java:64:	UseConcurrentHashMap:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/DiningExperienceManager.java:69:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:72:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/DiningExperienceManager.java:73:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:80:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:83:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:85:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/DiningExperienceManager.java:86:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:88:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/DiningExperienceManager.java:91:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:95:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:97:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:99:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:100:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:101:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'confirmacion' could be declared final
+src/main/java/DiningExperienceManager.java:103:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/DiningExperienceManager.java:104:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:106:	SystemPrintln:	SystemPrintln: Usage of System.out/err
+src/main/java/DiningExperienceManager.java:107:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'totalCost' is never used
